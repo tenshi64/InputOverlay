@@ -7,7 +7,7 @@ Run setup.exe.
 Follow the instructions.
 
 # Contact
-Dm me on Discord: єℓєνєи#8485
+Dm me on Discord: 𝘁𝗲𝗻𝘀𝗵𝗶#8485
 
 # Screenshots
 ![Screenshot](https://github.com/elefelen/InputOverlay/blob/main/screenshots/Screenshot%20(104).png)
